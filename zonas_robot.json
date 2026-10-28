@@ -1,0 +1,51 @@
+{
+    "imagen": "personaje.png",
+    "rotacion_grados": 180,
+    "tamano_imagen_rotada": {
+        "ancho": 1254,
+        "alto": 1254
+    },
+    "criterio_sensores": {
+        "color": "solo_objetos; ignorar_background",
+        "ir_1_a_ir_4": "solo_background; negro_o_no_negro",
+        "transporte": "posicion_relativa_del_objeto_sujeto"
+    },
+    "zonas": {
+        "color": {
+            "x": 830,
+            "y": 1149,
+            "ancho": 810,
+            "alto": 65
+        },
+        "ir_1": {
+            "x": 403,
+            "y": 142,
+            "ancho": 67,
+            "alto": 62
+        },
+        "ir_2": {
+            "x": 523,
+            "y": 142,
+            "ancho": 72,
+            "alto": 65
+        },
+        "ir_3": {
+            "x": 651,
+            "y": 147,
+            "ancho": 70,
+            "alto": 65
+        },
+        "ir_4": {
+            "x": 786,
+            "y": 144,
+            "ancho": 67,
+            "alto": 65
+        },
+        "transporte": {
+            "x": 572,
+            "y": -366,
+            "ancho": 109,
+            "alto": 373
+        }
+    }
+}

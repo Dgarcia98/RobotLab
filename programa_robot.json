@@ -1,0 +1,19 @@
+{
+  "workspace": {
+    "blocks": {
+      "languageVersion": 0,
+      "blocks": [
+        {
+          "type": "robot_start",
+          "id": "P[AU)zM.moyO,bFGC.$+",
+          "x": -650,
+          "y": 1910
+        }
+      ]
+    }
+  },
+  "program": {
+    "main": [],
+    "functions": {}
+  }
+}

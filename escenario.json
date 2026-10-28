@@ -1,0 +1,159 @@
+{
+    "version": 1,
+    "mapa": "mat-printing.png",
+    "tamano_mapa": {
+        "ancho": 9300,
+        "alto": 4500
+    },
+    "sistema_coordenadas": "coordenadas_originales; x_y_centro; angulo_horario",
+    "objetos": [
+        {
+            "id": "personaje",
+            "nombre": "PERSONAJE",
+            "tipo": "personaje",
+            "imagen": "personaje.png",
+            "x": 8856.729186915889,
+            "y": 4031.7765140186916,
+            "ancho": 730.0,
+            "alto": 730.0,
+            "angulo": 180.0
+        },
+        {
+            "id": "C1",
+            "nombre": "C1",
+            "tipo": "cuadrado_aleatorio",
+            "x": 9080.0,
+            "y": 1491.0,
+            "ancho": 200,
+            "alto": 200,
+            "angulo": 0,
+            "color": "#ff2020",
+            "color_aleatorio": true
+        },
+        {
+            "id": "C2",
+            "nombre": "C2",
+            "tipo": "cuadrado_aleatorio",
+            "x": 9080.0,
+            "y": 1795.0,
+            "ancho": 200,
+            "alto": 200,
+            "angulo": 0,
+            "color": "#20dd50",
+            "color_aleatorio": true
+        },
+        {
+            "id": "C3",
+            "nombre": "C3",
+            "tipo": "cuadrado_aleatorio",
+            "x": 9080.0,
+            "y": 2112.0,
+            "ancho": 200,
+            "alto": 200,
+            "angulo": 0,
+            "color": "#1676ff",
+            "color_aleatorio": true
+        },
+        {
+            "id": "C4",
+            "nombre": "C4",
+            "tipo": "cuadrado_aleatorio",
+            "x": 9080.0,
+            "y": 2423.0,
+            "ancho": 200,
+            "alto": 200,
+            "angulo": 0,
+            "color": "#ffdd00",
+            "color_aleatorio": true
+        },
+        {
+            "id": "objeto_6",
+            "nombre": "TB",
+            "tipo": "imagen",
+            "imagen": "objetos/TB.png",
+            "x": 2190.2803738317757,
+            "y": 1511.2149532710282,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_7",
+            "nombre": "TB_COPIA",
+            "tipo": "imagen",
+            "imagen": "objetos/TB.png",
+            "x": 691.0280373831778,
+            "y": 2993.177570093458,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_8",
+            "nombre": "TN",
+            "tipo": "imagen",
+            "imagen": "objetos/TN.png",
+            "x": 2198.9719626168226,
+            "y": 2250.0,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_9",
+            "nombre": "TN_COPIA",
+            "tipo": "imagen",
+            "imagen": "objetos/TN.png",
+            "x": 2185.981308411215,
+            "y": 3001.8691588785045,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_10",
+            "nombre": "TN_COPIA_COPIA",
+            "tipo": "imagen",
+            "imagen": "objetos/TN.png",
+            "x": 712.803738317757,
+            "y": 2258.785046728972,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_11",
+            "nombre": "TN_COPIA_COPIA_COPIA",
+            "tipo": "imagen",
+            "imagen": "objetos/TN.png",
+            "x": 699.8130841121496,
+            "y": 1507.0093457943922,
+            "ancho": 216,
+            "alto": 214.0,
+            "angulo": 0
+        },
+        {
+            "id": "objeto_12",
+            "nombre": "PUENTE",
+            "tipo": "imagen",
+            "imagen": "objetos/PUENTE.png",
+            "x": 338.9721682242988,
+            "y": 850.6541308411215,
+            "ancho": 161.0,
+            "alto": 1000.0,
+            "angulo": 0.0
+        },
+        {
+            "id": "objeto_13",
+            "nombre": "PUENTE_COPIA",
+            "tipo": "imagen",
+            "imagen": "objetos/PUENTE.png",
+            "x": 334.673102803738,
+            "y": 3601.588710280374,
+            "ancho": 161.0,
+            "alto": 1000.0,
+            "angulo": 0.0
+        }
+    ],
+    "zonas_prohibidas": []
+}
